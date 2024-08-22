@@ -1,0 +1,13 @@
+/venv/
+/.idea/
+/data/
+/runs/
+/venv/
+
+/expert/
+/result/
+
+# Python cache
+__pycache__
+*.pyc
+*/__pycache__/
