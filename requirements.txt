@@ -1,0 +1,27 @@
+# Base ----------------------------------------
+Box2D
+cmake
+gym
+matplotlib>=3.4.1
+nevergrad
+numpy>=1.20.1
+opencv-python>=4.1.2
+Pillow
+PyYAML>=5.3.1
+scikit-build
+scikit-learn
+scipy>=1.7.1
+torch>=1.8.1
+torchvision>=0.9.1
+tqdm>=4.41.0
+thop  # FLOPs computation
+
+# Logging -------------------------------------
+tensorboard>=2.4.1
+
+# Plotting ------------------------------------
+seaborn>=0.11.1
+pandas
+
+# Albumentations ------------------------------
+albumentations>=1.0.3

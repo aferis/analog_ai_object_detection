@@ -1,0 +1,10 @@
+train_local: /home/aferis-laptop/Datasets/BerkeleyDeepDrive/bdd100k/YOLOv5/train_700
+val_local: /home/aferis-laptop/Datasets/BerkeleyDeepDrive/bdd100k/YOLOv5/val_100
+test_local: /home/aferis-laptop/Datasets/BerkeleyDeepDrive/bdd100k/YOLOv5/test_2k
+train_cluster: /home/ubuntu/repos/BerkeleyDeepDrive/bdd100k/YOLOv5/train_7k
+val_cluster: /home/ubuntu/repos/BerkeleyDeepDrive/bdd100k/YOLOv5/val_1k
+test_cluster: /home/ubuntu/repos/BerkeleyDeepDrive/bdd100k/YOLOv5/test_2k
+train: /home/ubuntu/repos/BerkeleyDeepDrive/bdd100k/YOLOv5/train_7k
+val: /home/ubuntu/repos/BerkeleyDeepDrive/bdd100k/YOLOv5/val_1k
+nc: 10
+names: ["person", "rider", "car", "truck", "bus", "train", "motor", "bike", "traffic light", "traffic sign"]
